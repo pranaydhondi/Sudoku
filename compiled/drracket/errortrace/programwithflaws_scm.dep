@@ -1,0 +1,1 @@
+("5.3.1" ("42d3c62e0c7623f8aca60dadb1da3ee35588a560" . "fa94fa7222c4577a256129fc30f7444753f9dd79") (collects #"racket" #"gui.rkt") #"/media/New Volume/project/sudokusol.scm" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))

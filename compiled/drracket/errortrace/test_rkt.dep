@@ -1,0 +1,1 @@
+("5.3.1" ("98fb2f3cc17b6a1680054428afdf517ead2eb3b8" . "7f70dc01b1a83c3175c99867b327ba00f2ba820a") #"/media/New Volume/project/gensudo.scm" #"/media/New Volume/project/showsol.scm" (collects #"racket" #"gui.rkt") #"/media/New Volume/project/sudokusol.scm" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))
